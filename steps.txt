@@ -1,0 +1,11 @@
+open two anaconda prompts and write below commands on both prompts
+--> cd C:\Users\hp\Desktop\New folder
+--> conda activate envs\
+
+Now in 1st prompt write below commands (for web app)
+--> streamlit run app.py
+
+Also in second prompt write below command (for mouse iris control)
+-->python -u eye_ball.py
+
+cntl+c to stop close the camera
