@@ -1,4 +1,5 @@
 EYE CONTROLLED ASSISTIVE SYSTEM 
+
 Overview 
 An assistive technology solution developed for paralyzed individuals that enables interaction through eye movement tracking.
 
